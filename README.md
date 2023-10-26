@@ -1,6 +1,4 @@
 # UltimateTic-Tac-ToeGame
-Hafsa Alaparmak| 11/28/2022
-
 ## Introduction
 
 Welcome to the Ultimate Tic Tac Toe Game! This project is an implementation of the classic Tic Tac Toe game with an exciting twist. Players compete in smaller Tic Tac Toe boards, aiming to win three of these smaller boards and secure victory in the overall game.
